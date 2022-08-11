@@ -12,3 +12,4 @@ crate-type = ["cdylib"]
 
 [dependencies]
 wasm-bindgen = "0.2.82"
+sexp = "1.1.4"
